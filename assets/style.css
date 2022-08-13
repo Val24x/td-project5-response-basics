@@ -108,7 +108,7 @@ h3{
 .my_list{
     list-style-type: none;
     display: flex;
-    margin-left: 285px;
+    margin-left: 265px;
 }
 
 .my_list :nth-child(1){
