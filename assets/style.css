@@ -1,0 +1,166 @@
+*{
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+Body{
+    padding: 0px;
+    margin: 0px;
+}
+.header_section{
+    background-color: #4D9aaD;
+    display: flex;
+    color: #ffffff;
+}
+
+h3{
+    margin-left: 110px;
+    margin-top: 25px;
+}
+.the_list{
+    list-style: none;
+    display: flex;
+    margin-left: 570px;
+}
+ul li{
+    margin: 15px;
+}
+
+.section_1{
+    display: flex;
+    margin-top: 150px;
+}
+.text_1{
+    margin-left: 110px;
+}
+
+.text_1 h2{
+    color: #4D9aad;
+    font-size: 35px;
+}
+.text_1 p{
+    font-size: 25px;
+}
+.image_1{
+    margin-left: 150px;
+    margin-right: 70px;
+}
+
+.section_2{
+    background-color: #EBEBEB;
+    margin-top: 40px;
+}
+
+.sub_1{
+    display: flex;
+}
+
+.sub_1 h2{
+    color: #4D9AAD;
+    margin-left: 110px;
+    font-size: 35px;
+    margin-top: 70px;
+}
+
+.sub_1 p{
+    margin-left: 550px;
+    margin-bottom: 80px;
+    border-radius: 5px;
+    border: none;
+    background-color: #4D9AAD;
+    color: #ffffff;
+    font-size: 18px;
+    padding: 10px 12px 10px 12px;
+    margin-top: 70px;
+}
+
+.sub_2{
+    margin-left: 80px;
+    margin-right: 20px;
+    margin-top: -40px;
+    
+}
+
+.sub_2 img{
+    margin: 40px;
+    border-radius: 10px;
+}
+
+.section_3{
+    background-color: #4D9AAD;
+    color: #ffffff;
+}
+
+.im_1{
+    margin-left: 1040px;
+}
+
+.sub_4{
+    display: flex;
+}
+
+h3{
+    margin-left: 110px;
+    font-size: 28px;
+}
+
+.my_list{
+    list-style-type: none;
+    display: flex;
+    margin-left: 285px;
+}
+
+.my_list :nth-child(1){
+    color: #4D9AAD;
+    background-color: #ffffff;
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 50px;
+    font-weight: bold;
+}
+
+.my_list :nth-child(2){
+    color: #ffffff;
+    background-color: #157293;
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 50px;
+    font-weight: bold;
+}
+
+.im_2{
+    margin-left: 110px;
+}
+
+.section_4{
+    background-color: #157293;
+    margin-top: -5px;
+    color: #ffffff;
+    margin-bottom: -20px;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.sub_0 img{
+    width: 15px;
+    margin: 3px;
+}
+
+
+.sub_0 :nth-child(2){
+    margin-left: -60px;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.sub_0 :nth-child(1){
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.sub_0 :nth-child(7){
+    font-weight: bold;
+    font-size: 11px;
+    margin: 27px 0px 0px 7px;
+}
