@@ -23,6 +23,7 @@ h3{
 }
 ul li{
     margin: 15px;
+    font-weight: bold;
 }
 
 .section_1{
@@ -71,6 +72,7 @@ ul li{
     font-size: 18px;
     padding: 10px 12px 10px 12px;
     margin-top: 70px;
+    font-weight: bold;
 }
 
 .sub_2{
@@ -116,6 +118,7 @@ h3{
     border-radius: 5px;
     margin-bottom: 50px;
     font-weight: bold;
+    font-size: 18px;
 }
 
 .my_list :nth-child(2){
@@ -125,6 +128,7 @@ h3{
     border-radius: 5px;
     margin-bottom: 50px;
     font-weight: bold;
+    font-size: 18px;
 }
 
 .im_2{
@@ -162,5 +166,5 @@ h3{
 .sub_0 :nth-child(7){
     font-weight: bold;
     font-size: 11px;
-    margin: 27px 0px 0px 7px;
+    margin: 55px 0px 0px 7px;
 }
