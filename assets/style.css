@@ -111,9 +111,8 @@ h3{
     margin-left: 265px;
 }
 
-.my_list :nth-child(1){
-    color: #4D9AAD;
-    background-color: #ffffff;
+.my_list li{
+    margin: 15px;
     padding: 10px;
     border-radius: 5px;
     margin-bottom: 50px;
@@ -121,14 +120,14 @@ h3{
     font-size: 18px;
 }
 
+.my_list :nth-child(1){
+    color: #4D9AAD;
+    background-color: #ffffff;
+}
+
 .my_list :nth-child(2){
     color: #ffffff;
     background-color: #157293;
-    padding: 10px;
-    border-radius: 5px;
-    margin-bottom: 50px;
-    font-weight: bold;
-    font-size: 18px;
 }
 
 .im_2{
