@@ -21,7 +21,7 @@ h3{
     display: flex;
     margin-left: 570px;
 }
-ul li{
+.the_list li{
     margin: 15px;
     font-weight: bold;
 }
